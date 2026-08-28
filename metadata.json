@@ -1,0 +1,6 @@
+{
+  "name": "SHAMBA",
+  "description": "Mpelabushi Farms AI Farm Assistant - Production Authentication & Login Foundation",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,11 @@
+[
+  "backend/tests/test_auth.py::test_1_valid_login",
+  "backend/tests/test_auth.py::test_2_invalid_password",
+  "backend/tests/test_auth.py::test_3_unknown_user",
+  "backend/tests/test_auth.py::test_4_logout",
+  "backend/tests/test_auth.py::test_5_direct_protected_route_access_without_token",
+  "backend/tests/test_auth.py::test_6_valid_and_invalid_token",
+  "backend/tests/test_auth.py::test_7_inactive_account",
+  "backend/tests/test_auth.py::test_8_database_persistence_and_attributes",
+  "backend/tests/test_auth.py::test_9_password_security"
+]
